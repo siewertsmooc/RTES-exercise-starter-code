@@ -1,6 +1,6 @@
 // Sam Siewert, December 2017
 //
-// Updated June 2020 for signal driven example
+// Updated June 2020 for signal driven example - just to test github
 //
 // Sequencer Generic
 //
